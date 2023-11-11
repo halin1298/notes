@@ -12,3 +12,4 @@ git remote add origin https://github.com/halin1298/notes.git
 
 git push -u origin main
 
+hello
